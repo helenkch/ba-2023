@@ -1,4 +1,4 @@
-Zielwert:,19.903
+Zielwert:,19.903,,,,,,,,
 Hub,Mo,Di,Mi,Do,Fr,Sa,So,Touren pro Woche
 Weinfelden,4,4,0,4,0,0,0,12
 Kreuzlingen,0,4,3,0,3,0,0,10
@@ -7,8 +7,8 @@ Romanshorn,0,4,4,3,4,0,0,15
 Stein am Rhein,4,0,0,4,0,0,0,8
 Sum,12,12,11,11,11,0,0,57
  
-Alternative,1
-Zielwert:,19.903
+Alternative,1,,,,,,,,
+Zielwert:,19.903,,,,,,,,
 Hub,Mo,Di,Mi,Do,Fr,Sa,So,Touren pro Woche
 Weinfelden,0,0,4,4,4,0,0,12
 Kreuzlingen,4,0,3,0,3,0,0,10
@@ -17,8 +17,8 @@ Romanshorn,3,4,4,0,4,0,0,15
 Stein am Rhein,0,3,0,4,0,0,0,8
 Summe,11,11,11,12,11,0,0,57
  
-Alternative,2
-Zielwert:,19.903
+Alternative,2,,,,,,,,
+Zielwert:,19.903,,,,,,,,
 Hub,Mo,Di,Mi,Do,Fr,Sa,So,Touren pro Woche
 Weinfelden,4,4,0,0,4,0,0,12
 Kreuzlingen,0,4,3,0,3,0,0,10
@@ -27,8 +27,8 @@ Romanshorn,4,4,4,3,0,0,0,15
 Stein am Rhein,4,0,0,4,0,0,0,8
 Summe,12,12,11,11,11,0,0,57
  
-Alternative,3
-Zielwert:,19.903
+Alternative,3,,,,,,,,
+Zielwert:,19.903,,,,,,,,
 Hub,Mo,Di,Mi,Do,Fr,Sa,So,Touren pro Woche
 Weinfelden,4,4,0,0,4,0,0,12
 Kreuzlingen,0,4,3,0,3,0,0,10
